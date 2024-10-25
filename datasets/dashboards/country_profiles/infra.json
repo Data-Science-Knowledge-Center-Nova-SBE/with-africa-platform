@@ -1,0 +1,1406 @@
+{
+    "AGO": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.011076491319195041
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.6339964587022187
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.21392626707191753
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.030160088082993017
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.43875457724141464
+        }
+    },
+    "BDI": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0008888582411355877
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8655348401208208
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.16002183018132404
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1998.0,
+            "latest_value": 0.011097010069958009
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.02694855954838904
+        }
+    },
+    "BEN": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2006.0,
+            "latest_value": 0.024113269546728523
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.004512256739928067
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.47963753775648377
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.45212667542262386
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2016.0,
+            "latest_value": 7.92643576425572e-05
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.37100314449551197
+        }
+    },
+    "BFA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.012515705035275925
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0021086799495023466
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7066972190396834
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.46757748515482234
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.023834792343116952
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.12143797325521724
+        }
+    },
+    "BWA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.030298637286169904
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.12025884166303956
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.2818456410790543
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7747895448265604
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.020553247936715084
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7151928843003913
+        }
+    },
+    "CAF": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.00026157903785490444
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9405270284345382
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.02022901350486883
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2001.0,
+            "latest_value": 0.005675328007207096
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.08598722828978658
+        }
+    },
+    "CIV": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.01836281047646661
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03859988968365019
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.6581606082699719
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8247307426259668
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.09362705924738857
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6871278964195662
+        }
+    },
+    "CMR": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.03020199091524113
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06181232220729148
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8206436829496928
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.302147453059537
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.03976692822927095
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6254476604077995
+        }
+    },
+    "COD": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.1634290132405528
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.000953460192947584
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 1.0
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11638773292135929
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.03863422470568728
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.14113938336262966
+        }
+    },
+    "COG": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2012.0,
+            "latest_value": 0.030646564221513482
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.007420062858518753
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.7471096760754088
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.3823836960131738
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.015290094589249285
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4542918655610887
+        }
+    },
+    "COM": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.006256213101460604
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4051661285282783
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4021463248899415
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1996.0,
+            "latest_value": 0.008719079340681293
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8692996908764227
+        }
+    },
+    "CPV": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.16462811020209672
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.24049578168940733
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3963816158170693
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.012882423872985082
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9514528382220335
+        }
+    },
+    "DJI": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2003.0,
+            "latest_value": 0.0252247028124094
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04007782480713302
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.320695760858244
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09339221170356765
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1991.0,
+            "latest_value": 0.03091309948059731
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6253885288653213
+        }
+    },
+    "DZA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.1808011984149995
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.29990399137670604
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.0
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.45327247989849395
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.21916594888167068
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9977000724526794
+        }
+    },
+    "EGY": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2016.0,
+            "latest_value": 0.23649366966270416
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2792852448766283
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.06624309967711697
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.36187321619823043
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4587107641132428
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 1.0
+        }
+    },
+    "ERI": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.003950868966618771
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8410582231017604
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.11297825639269765
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2020.0,
+            "latest_value": 0.003918790209669207
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.48525963326741406
+        }
+    },
+    "ETH": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2018.0,
+            "latest_value": 0.023919976804870978
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.013128000637074757
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.9308405374440163
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14892977556779563
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7880066115034825
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5034095019964241
+        }
+    },
+    "GAB": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.018797719145646083
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09618200933185354
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.9370898864701594
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5461758022848061
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2016.0,
+            "latest_value": 0.018270434436609435
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9111826864663052
+        }
+    },
+    "GHA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2006.0,
+            "latest_value": 0.033536290712283756
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.017703169842378234
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.4176648265805646
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5131724323242233
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.10558805081565045
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8514941165872639
+        }
+    },
+    "GIN": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.00021140227190009016
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6809707322153943
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4119164867493843
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1999.0,
+            "latest_value": 0.004755861458553432
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4234705621369036
+        }
+    },
+    "GMB": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0054181187227450274
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5060931153004896
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.409033636246255
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2019.0,
+            "latest_value": 0.009004431028194499
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6064850017494455
+        }
+    },
+    "GNB": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.006270056683349852
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9073013227788773
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5492993048763118
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1998.0,
+            "latest_value": 0.009511722917106865
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.3036894505668679
+        }
+    },
+    "GNQ": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.003101655141622348
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.06082699718779295
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.13357059556763173
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.009812927476148581
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6399761563426402
+        }
+    },
+    "KEN": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2004.0,
+            "latest_value": 0.08011984149995167
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.042412879118364846
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.7535673367357567
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5249081537149329
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.402488555237377
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7457237815547675
+        }
+    },
+    "LBR": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.007160755769271065
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9664618268930321
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.010358211870887812
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1992.0,
+            "latest_value": 0.017438158681362587
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.23956579997812952
+        }
+    },
+    "LBY": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.13706410105665853
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.030934277679408397
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.07170442441516914
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.677086202686263
+        }
+    },
+    "LSO": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.01127484049971033
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.33475679616706594
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.21475308627370499
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 1999.0,
+            "latest_value": 0.0015852871528511442
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4620994621076493
+        }
+    },
+    "MAR": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.09838600560548952
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.1739844219515544
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.11217581501926883
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6153145146028197
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.399016776372633
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 1.0
+        }
+    },
+    "MDG": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.02000579878225573
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0031607621932043216
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8694927611707114
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.23002657496982754
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.01615407608755316
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.29672094301329877
+        }
+    },
+    "MLI": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2002.0,
+            "latest_value": 0.022905189910118876
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.022617524468640484
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6625351525882721
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4838080112270695
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2014.0,
+            "latest_value": 0.0
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4946484403404403
+        }
+    },
+    "MOZ": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2011.0,
+            "latest_value": 0.13805934087175026
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.005218878813650251
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8411623789188627
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06901985206730654
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.06010616240035113
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.25740597242224816
+        }
+    },
+    "MRT": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.022663573982796947
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.008399364049602486
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.24257889803145508
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.47592347235481025
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.032530092376505476
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4330310160860329
+        }
+    },
+    "MUS": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7359343487226058
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.09644828663680867
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7521861021747166
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.01861127117447243
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9956640617981682
+        }
+    },
+    "MWI": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2007.0,
+            "latest_value": 0.025997873779839566
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.002078776763325739
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7813769399020936
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1724264871077128
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.003210388792546145
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.06981575417702879
+        }
+    },
+    "NAM": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10737123118225811
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.32444537027392983
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4763621881121525
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0002564836084597866
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5146493744534079
+        }
+    },
+    "NER": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0013593824879615673
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8515779606291012
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.15099992828940145
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.003543116786622307
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.11763657592724722
+        }
+    },
+    "NGA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2015.0,
+            "latest_value": 0.15796849328307722
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0012671777909097285
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8578273096552443
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4104361126492353
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5901480792157527
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5609862570645394
+        }
+    },
+    "RWA": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.009919662718650479
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8461618581397772
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2854381145563672
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.07461099292487137
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4439206478683354
+        }
+    },
+    "SDN": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.12022808543539189
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.001821526099381227
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.6455577544005834
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2516857938829654
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.12217015443447342
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5855679835860759
+        }
+    },
+    "SEN": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2004.0,
+            "latest_value": 0.03126510099545762
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.040929927428228687
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.40089574002708056
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5178070452058238
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.04982255524208527
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.6528576527411677
+        }
+    },
+    "SLE": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 6.250882404013324e-05
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7397146130611395
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.38761787432504646
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2012.0,
+            "latest_value": 0.01700220471432852
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.21404669378075294
+        }
+    },
+    "SOM": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.019344804126654166
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9917716904489117
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11589915521551009
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2019.0,
+            "latest_value": 0.008402021910111064
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4506802515389662
+        }
+    },
+    "SSD": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 5.2426143831092086e-05
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.34444328715758776
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0
+        }
+    },
+    "STP": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05764630073741261
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.42287261743568383
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3250633889188994
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.004153452340469998
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7664133707086039
+        }
+    },
+    "SWZ": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2011.0,
+            "latest_value": 0.0019812506040398185
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06450190729027125
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7147172169565671
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5277526601510345
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.006428339404811389
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8146730622185191
+        }
+    },
+    "SYC": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.016664930736381627
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9248593329986725
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.06976848759697886
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 1.0
+        }
+    },
+    "TCD": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.7664826580564524
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.21863860394780205
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2014.0,
+            "latest_value": 0.0005707033750264119
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.038164882765204675
+        }
+    },
+    "TGO": {
+        "Rail lines (total route-km)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03150374456264512
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.7964795333819394
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.25291876943047736
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.08951323908573985
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.5202296966835127
+        }
+    },
+    "TUN": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.07335459553493766
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3910369534575028
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.13259035517133633
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5683437770166259
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.1391644327130377
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9989160154495422
+        }
+    },
+    "TZA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2017.0,
+            "latest_value": 0.11800521890403017
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05904397351208409
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8728257473179878
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.354391216092926
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4339010201711224
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.3793468945943659
+        }
+    },
+    "UGA": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2002.0,
+            "latest_value": 0.0
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0024350769487881474
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9673992292469535
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.22889013618925141
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.010748246896330757
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.40619703940772034
+        }
+    },
+    "ZAF": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2021.0,
+            "latest_value": 1.0
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09304411532264206
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.10009374023539215
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7867643381992876
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 1.0
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8840136531010018
+        }
+    },
+    "ZMB": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2019.0,
+            "latest_value": 0.047791630424277566
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.01235206585111504
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8508488699093846
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.39564104098518427
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.056052115490800664
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.42207489233148887
+        }
+    },
+    "ZWE": {
+        "Rail lines (total route-km)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.1382526336136078
+        },
+        "Fixed broadband subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0362168552334807
+        },
+        "Renewable energy consumption (% of total final energy consumption)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8770961358191856
+        },
+        "Mobile cellular subscriptions (per 100 people)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.329905914589108
+        },
+        "Air transport, registered carrier departures worldwide": {
+            "latest_year": 2021.0,
+            "latest_value": 0.013734832775073142
+        },
+        "Access to electricity (% of population)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4469502917304271
+        }
+    }
+}

@@ -1,0 +1,470 @@
+{
+    "eoa_data": {
+        "TCD": {
+            "Country": "Chad",
+            "Ease of Access": 3,
+            "Region": "Central Africa",
+            "ISO3 Code": "TCD",
+            "Link": "https://www.inseed.td/",
+            "Comments": "There are numerous indicators tracked on the INSEED website, although the website is only available in French. The national statistics yearbook published by the agency contains data related to tourism and transport, although the last publication was more than a decade ago. The \u2018Ease of Access Score' for Chad is relatively high. "
+        },
+        "COD": {
+            "Country": "Congo, Republic of the",
+            "Ease of Access": 3,
+            "Region": "Central Africa",
+            "ISO3 Code": "COD",
+            "Link": "https://ins-congo.cg/",
+            "Comments": "While website of the Republic of the Congo is only available in French, there are numerous reports and publications, and a database is also available. Furthermore, the data can also be accessed through ODFA. The \u2018Ease of Access Score' for the Republic of the Congo is relatively high when compared to other countries in the same region. "
+        },
+        "CMR": {
+            "Country": "Cameroon",
+            "Ease of Access": 2,
+            "Region": "Central Africa",
+            "ISO3 Code": "CMR",
+            "Link": "http://mintoul.gov.cm/fr/download/carte-hoteliere-2017-2020/",
+            "Comments": "Cameroon has two websites: the National Institute of Statistics and the Tourism Ministry. Depending on the kind of data required, the website to be accessed would change. However, few tourism- related datasets are available. The \u2018Ease of Access Score' for Cameroon is similar to other countries in the same region. "
+        },
+        "STP": {
+            "Country": "Sao Tome and Principe",
+            "Ease of Access": 2,
+            "Region": "Central Africa",
+            "ISO3 Code": "STP",
+            "Link": "https://www.ine.st/",
+            "Comments": "The website of Sao Tome and Principe has tourism data that is very out of date, and the source listed on ODFA is the World Bank. The \u2018Ease of Access Score' for Sao Tome and Principe is relatively low compared to other countries in the same region "
+        },
+        "AGO": {
+            "Country": "Angola",
+            "Ease of Access": 1,
+            "Region": "Central Africa",
+            "ISO3 Code": "AGO",
+            "Link": "https://www.ine.gov.ao/ https://angola.opendataforafrica.org/?lang=en",
+            "Comments": "Angola's National Statistics Institute offers indicator reports, with some raw data on the ODFA platform. For more complete data, consult the African Data Bank website. Relative to Central Africa, Angola's 'Ease of Access Score' to tourism data is lower. "
+        },
+        "COG": {
+            "Country": "Congo, Democratic Republic of the",
+            "Ease of Access": 1,
+            "Region": "Central Africa",
+            "ISO3 Code": "COG",
+            "Link": "https://ins.cd/",
+            "Comments": "The National Institute of Statistics in the Democratic Republic of Congo was operational, but the publications link is broken, making most of the data inaccessible through the website. Further datasets are available on ODFA. The \u2018Ease of Access Score\u2019 for the Congo, Democratic Republic of the is low compared to other countries in the same region."
+        },
+        "GNQ": {
+            "Country": "Equatorial Guinea",
+            "Ease of Access": 1,
+            "Region": "Central Africa",
+            "ISO3 Code": "GNQ",
+            "Link": "https://inege.gq/",
+            "Comments": "o tourism-related data is available for Equatorial Guinea on the INEGE website, although there are numerous publications and datasets related to other indicators. The \u2018Ease of Access Score' for Equatorial Guinea is relatively low compared to other countries in the same region. "
+        },
+        "GAB": {
+            "Country": "Gabon",
+            "Ease of Access": 1,
+            "Region": "Central Africa",
+            "ISO3 Code": "GAB",
+            "Link": null,
+            "Comments": "The national website of Gabon is down, and the available data on ODFA is not related to tourism. The \u2018Ease of Access Score' for Gabon is very low "
+        },
+        "CAF": {
+            "Country": "Central African Republic (CAR)",
+            "Ease of Access": 0,
+            "Region": "Central Africa",
+            "ISO3 Code": "CAF",
+            "Link": "-",
+            "Comments": "There is no official website operational at the moment for accessing data in the Central African Republic. The \u2018Ease of Access Score' for the country is very low."
+        },
+        "MUS": {
+            "Country": "Mauritius",
+            "Ease of Access": 4,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "MUS",
+            "Link": "Tourism data for Mauritius is available in Excel files and report formats through the official website, and the website hosts numerous indicators as well. In terms of \u2018Ease of Access Score\u2019, Eastern stands out when compared to other countries in Southern Africa. ",
+            "Comments": null
+        },
+        "TZA": {
+            "Country": "Tanzania",
+            "Ease of Access": 4,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "TZA",
+            "Link": "https://www.nbs.go.tz/index.php/en/",
+            "Comments": "Comprehensive data on tourism can be found on the website for the National Bureau of Statistics (NBS) in Tanzania. Additionally, some data can be accessed through ODFA. The \u2018Ease of Access Score\u2019 for Tanzania stands out in the region. "
+        },
+        "DJI": {
+            "Country": "Djibouti",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "DJI",
+            "Link": "http://www.instad.dj/accueil.php",
+            "Comments": "INSTAD's website offers annual statistics, consumer price indices, and detailed tourism data, including occupancy rates and passenger counts. However, the publication is only available in French and Arabic, limiting accessibility. Compared to its regional peers, Djibouti's 'Ease of Access Score' is relatively high."
+        },
+        "KEN": {
+            "Country": "Kenya",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "KEN",
+            "Link": "https://www.knbs.or.ke/",
+            "Comments": "While more tourism data is not available, other indicators can be tracked. The website for the Kenya National Bureau of Statistics (KNBS ) provides access to abovementioned data. \u2018Ease of Access Score\u2019 is relatively high when compared to other countries in the same region."
+        },
+        "MDG": {
+            "Country": "Madagascar",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "MDG",
+            "Link": "https://instat.mg/",
+            "Comments": "Madagascar's annual economic dashboard includes tourism data, available for download in Excel from the National Institute of Statistics, although the content is in French. Madagascar's 'Ease of Access Score' for tourism data ranks high in the Eastern Africa region."
+        },
+        "MOZ": {
+            "Country": "Mozambique",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "MOZ",
+            "Link": "http://www.ine.gov.mz/estatisticas/estatisticas-sectoriais/turismo",
+            "Comments": "Mozambique provides highly granular tourism data, with recent tourism reports available on the national website. Additionally, the Open Data for Africa (ODFA) platform also provides access to tourism data. When compared to other countries in Eastern Africa, Mozambique\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated as high."
+        },
+        "SYC": {
+            "Country": "Seychelles",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "SYC",
+            "Link": "https://www.nbs.gov.sc/statistics/tourism",
+            "Comments": "The National Bureau of Statistics website provides downloadable tourism statistics, and additional statistics can be obtained from ODFA. \u2018Ease of Access Score\u2019 is relatively better when compared to other countries in the same region. "
+        },
+        "UGA": {
+            "Country": "Uganda",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "UGA",
+            "Link": "https://www.tourism.go.ug/statistics",
+            "Comments": "The website of the Uganda Bureau of Statistics (UBOS ) was not operational, but visitation data and raw data on tourism abstracts can be accessed through the Ministry of Tourism website and ODFA. The \u2018Ease of Access Score\u2019 relatively high when compared to other countries in the Eastern Africa region."
+        },
+        "ZWE": {
+            "Country": "Zimbabwe",
+            "Ease of Access": 3,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "ZWE",
+            "Link": "https://zimbabwetourism.net/statistics_dashboard/ ; https://www.zimstat.co.zw/",
+            "Comments": "Zimbabwe\u2019s tourism data is available through two websites: the Ministry of Tourism and the national statistics agency, ZimStat. The ZimStat website provides up-to-date and granular tourism data, while the Ministry of Tourism hosts the data as a PowerBI dashboard. In terms of \u2018Ease of Access Score\u2019, Zimbabwe\u2019s tourism data is relatively high when compared to other countries in Eastern Africa."
+        },
+        "RWA": {
+            "Country": "Rwanda",
+            "Ease of Access": 2,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "RWA",
+            "Link": "https://www.statistics.gov.rw/",
+            "Comments": "Tourism data is only available in report format on the website of the National Institute of Statistics of Rwanda. However, the website is well laid out. Rwanda\u2019s \u2018Ease of Access Score\u2019 is better when compared to other countries in the region. "
+        },
+        "ZMB": {
+            "Country": "Zambia",
+            "Ease of Access": 2,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "ZMB",
+            "Link": "https://www.zamstats.gov.zm/",
+            "Comments": "Zambia\u2019s new website does not yet have all the information available as of May 2023. As a result, some reports are currently inaccessible. However, once the improvements are made, the \u2018Ease of Access Score\u2019 to tourism data in Zambia is expected to improve. "
+        },
+        "BDI": {
+            "Country": "Burundi",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "BDI",
+            "Link": "https://www.isteebu.bi/nada/index.php/accueil",
+            "Comments": "Burundi does not have many datasets, and their national website was last updated in 2014. It is recommended that one seek alternate sources for data in the tourism sector in Burundi. Given the low \u2018Ease of Access Score\u2019 in Eastern Africa, Burundi\u2019s \u2018Ease of Access Score\u2019 to tourism data is moderate."
+        },
+        "COM": {
+            "Country": "Comoros",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "COM",
+            "Link": "https://comoros.opendataforafrica.org/data/#topic=Tourism",
+            "Comments": "\nThere is no official INSEED website, but some datasets can be accessed through ODFA. \u2018Ease of Access Score\u2019 is relatively better compared to other countries in the same region. The \u2018Ease of Access Score\u2019 to tourism data in Comoros is relatively moderate when compared to other countries in the region."
+        },
+        "ERI": {
+            "Country": "Eritrea",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "ERI",
+            "Link": "https://erisat.org/",
+            "Comments": "The official website is only available in the national language, making it challenging to access data. However, some data can be found on the ODFA platform. Eritrea\u2019s \u2018Ease of Access Score\u2019 can be considered moderate for the region"
+        },
+        "ETH": {
+            "Country": "Ethiopia",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "ETH",
+            "Link": "https://www.csa.gov.et",
+            "Comments": "\nThe official website was not operational, but some data is available on ODFA from the World Bank. \u2018Ease of Access Score\u2019 is like other countries in the region."
+        },
+        "MWI": {
+            "Country": "Malawi",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "MWI",
+            "Link": "https://www.nsomalawi.mw/",
+            "Comments": "The official website for tourism statistics in Malawi was non-operational, but the data can be obtained through the Open Data for Africa (ODFA) platform. In comparison to other countries in Eastern Africa, Malawi\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated as low."
+        },
+        "SOM": {
+            "Country": "Somalia",
+            "Ease of Access": 1,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "SOM",
+            "Link": "https://www.nbs.gov.so/home",
+            "Comments": "While several datasets are available on ODFA and reports on the National Bureau of Statistics website, none of them are tourism-specific indicators. \u2018Ease of Access Score\u2019 is comparable to other countries in the region. "
+        },
+        "SSD": {
+            "Country": "South Sudan",
+            "Ease of Access": 0,
+            "Region": "Eastern Africa",
+            "ISO3 Code": "SSD",
+            "Link": "https://www.ssnbss.org/home/documents/statistical-yearbooks/",
+            "Comments": "The official website lists publications not related to the tourism industry, and the ODFA link is not operational. \u2018Ease of Access Score\u2019 is poor even when considering other countries in the region."
+        },
+        "MAR": {
+            "Country": "Morocco",
+            "Ease of Access": 4,
+            "Region": "Northern Africa",
+            "ISO3 Code": "MAR",
+            "Link": "http://bds.hcp.ma/data/8.1",
+            "Comments": "The website for the Moroccan High Commission for Planning contains numerous up-to-date statistics, including tourism data. The \u2018Ease of Access Score\u2019 stands out when compared to other countries in the Northern Africa region."
+        },
+        "TUN": {
+            "Country": "Tunisia",
+            "Ease of Access": 4,
+            "Region": "Northern Africa",
+            "ISO3 Code": "TUN",
+            "Link": "http://www.ins.tn/en/statistiques/129",
+            "Comments": "The National Institute of Statistics website in Tunisia is analogous to its counterpart from Morocco. The data can be downloaded as an Excel file, and there are several other indicators available. It bares mentioning that the ODFA database is not operational for Tunisia. The \u2018Ease of Access Score\u2019 is relatively high compared to other countries in the Northern Africa region"
+        },
+        "EGY": {
+            "Country": "Egypt",
+            "Ease of Access": 3,
+            "Region": "Northern Africa",
+            "ISO3 Code": "EGY",
+            "Link": "https://www.cbe.org.eg/en",
+            "Comments": "The CAPMAS website was non-operational, but valuable insights into tourism can be obtained from yearly publications by the Central Bank of Egypt in report format. However, up-to-date statistics from the past decade were not found. The \u2018Ease of Access Score\u2019 is relatively high compared to other countries in the Northern Africa region."
+        },
+        "DZA": {
+            "Country": "Algeria",
+            "Ease of Access": 2,
+            "Region": "Northern Africa",
+            "ISO3 Code": "DZA",
+            "Link": "https://www.ons.dz/spip.php?rubrique21",
+            "Comments": "Although the ONS website is only available in French, relevant tourism data can be obtained from the National Statistics Office directly or through the ODFA platform. The \u2018Ease of Access Score\u2019 is relatively moderate compared to other countries in the Northern Africa region."
+        },
+        "LBY": {
+            "Country": "Libya",
+            "Ease of Access": 1,
+            "Region": "Northern Africa",
+            "ISO3 Code": "LBY",
+            "Link": null,
+            "Comments": "At the moment, there is no official operational website available to access tourism data in Libya. Some indicators can be obtained from the ODFA platform. The \u2018Ease of Access Score\u2019 is poor when compared to other countries in the Northern Africa region."
+        },
+        "SDN": {
+            "Country": "Sudan",
+            "Ease of Access": 1,
+            "Region": "Northern Africa",
+            "ISO3 Code": "SDN",
+            "Link": "https://sudan.opendataforafrica.org/certlwe/tourism-2009-sudan",
+            "Comments": "The official website is not operational, but data is hosted on ODFA. \u2018Ease of Access Score\u2019 is comparable to other countries in the region."
+        },
+        "ZAF": {
+            "Country": "South Africa",
+            "Ease of Access": 4,
+            "Region": "Southern Africa",
+            "ISO3 Code": "ZAF",
+            "Link": "Statistics South Africa | The South Africa I Know, The Home I Understand (statssa.gov.za)",
+            "Comments": "South Africa publishes annual reports on tourism, and data on tourist arrivals and departures can be downloaded as Excel files. However, the reports themselves cannot be downloaded in that format. South Africa\u2019s \u2018Ease of Access Score\u2019 to tourism data stands out when compared to other countries in Southern Africa. "
+        },
+        "BWA": {
+            "Country": "Botswana",
+            "Ease of Access": 3,
+            "Region": "Southern Africa",
+            "ISO3 Code": "BWA",
+            "Link": "https://www.statsbots.org.bw",
+            "Comments": "The data portal, available on the ODFA platform, and on the statisticsBOTS website provides access to a wide range of data. The website regularly releases comprehensive publications related to tourism and other data, although only as a report. Botswana\u2019s \u2018Ease of Access Score' for tourism data is relatively high. "
+        },
+        "SWZ": {
+            "Country": "Eswatini\u00a0(former Swaziland)",
+            "Ease of Access": 3,
+            "Region": "Southern Africa",
+            "ISO3 Code": "SWZ",
+            "Link": "https://www.thekingdomofeswatini.com/eta-resources/research/",
+            "Comments": "Eswatini currently only provides access to the report on tourism data, and raw data is unavailable. To obtain information on other indicators, the Eswatini Tourism Authority website offers research reports. In terms of \u2018Ease of Access Score\u2019, Eswatini\u2019s score for tourism data availability is relatively high compared to other countries in the Southern Africa region."
+        },
+        "NAM": {
+            "Country": "Namibia",
+            "Ease of Access": 3,
+            "Region": "Southern Africa",
+            "ISO3 Code": "NAM",
+            "Link": "https://nsa.nsa.org.na/",
+            "Comments": "Namibia publishes annual reports on tourism, including sector breakdowns that are available as PDF and Excel files. The Open Data for Africa (ODFA) platform sources tourism data from the World Bank. Namibia\u2019s \u2018Ease of Access Score\u2019 to tourism data can be considered high in comparison to other countries in Southern Africa."
+        },
+        "LSO": {
+            "Country": "Lesotho",
+            "Ease of Access": 2,
+            "Region": "Southern Africa",
+            "ISO3 Code": "LSO",
+            "Link": "https://www.bos.gov.ls",
+            "Comments": "Lesotho offers raw data on several tourism indicators through Open Data for Africa, and publications on other indicators are available on the BOS website. However, the data is almost a decade old. Lesotho\u2019s \u2018Ease of Access Score' for tourism data is relatively moderate compared to other countries in the Southern Africa region."
+        },
+        "CPV": {
+            "Country": "Cabo Verde",
+            "Ease of Access": 4,
+            "Region": "Western Africa",
+            "ISO3 Code": "CPV",
+            "Link": "https://ine.cv/estatisticas-por-tema/",
+            "Comments": "Cabo Verde offers an interactive web portal with access to various datasets, including industry- specific data. The data is updated recently, and Cabo Verde\u2019s \u2018Ease of Access Score\u2019 to tourism data stands out when compared to other countries in Western Africa.\n"
+        },
+        "BFA": {
+            "Country": "Burkina Faso",
+            "Ease of Access": 3,
+            "Region": "Western Africa",
+            "ISO3 Code": "BFA",
+            "Link": "http://www.insd.bf/",
+            "Comments": "Burkina Faso publishes reports on tourism, but raw data can be accessed on the Open Data for Africa (ODFA) website. In terms of Ease of Access Score to tourism data, Burkina Faso\u2019s rating is relatively higher compared to other countries in Western Africa. "
+        },
+        "GMB": {
+            "Country": "Gambia",
+            "Ease of Access": 3,
+            "Region": "Western Africa",
+            "ISO3 Code": "GMB",
+            "Link": "https://www.gbosdata.org/data/719-tourist-arrivals/1859-arrivals",
+            "Comments": "Gambia provides tourism arrival data, further broken down into \u201dnon-traditional\u201d and \u201dtraditional\u201d categories. Gambia\u2019s \u2018Ease of Access Score\u2019 to tourism data is relatively higher when compared to other countries in Western Africa."
+        },
+        "MLI": {
+            "Country": "Mali",
+            "Ease of Access": 3,
+            "Region": "Western Africa",
+            "ISO3 Code": "MLI",
+            "Link": "https://instat-mali.org/fr",
+            "Comments": "Mali offers several indicators through annual statistical publications that can be accessed through the INSTAT website. However, data is only available as a report, hindering open access. Mali\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated relatively high when compared to other countries in Western Africa."
+        },
+        "SEN": {
+            "Country": "Senegal",
+            "Ease of Access": 3,
+            "Region": "Western Africa",
+            "ISO3 Code": "SEN",
+            "Link": "https://www.ansd.sn/",
+            "Comments": "Senegal offers numerous tourism indicators on the Open Data for Africa (ODFA) platform, sourced from the National Agency of Statistics and Demography. However, the data and reports are provided in French. Senegal\u2019s \u2018Ease of Access Score\u2019 to tourism data is considered relatively high when compared to other countries in Western Africa."
+        },
+        "SLE": {
+            "Country": "Sierra Leone",
+            "Ease of Access": 3,
+            "Region": "Western Africa",
+            "ISO3 Code": "SLE",
+            "Link": "http://www.statistics.sl/index.php/what-we-offer/open-data-free-datasets.html",
+            "Comments": "Sierra Leone\u2019s statistics website provides an extensive national tourism census in report format, although the raw data is not available. The Open Data for Africa (ODFA) platform sources tourism data from the World Bank. Sierra Leone\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated as relatively high when compared to other countries in Western Africa."
+        },
+        "BEN": {
+            "Country": "Benin",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "BEN",
+            "Link": "https://instad.bj/",
+            "Comments": "Benin provides reports on various indicators, but only accessible as a PDF. Some raw data is available through the Open Data for Africa (ODFA) platform, which collaborates with the African Data Bank. "
+        },
+        "CIV": {
+            "Country": "Cote d'Ivoire",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "CIV",
+            "Link": "https://www.ins.ci/",
+            "Comments": "Cote d\u2019Ivoire\u2019s website has recent updates to the datasets. Although tourism-related data was not accessible at the time, other sector-specific statistics and tourism-adjacent data can be found on the Open Data for Africa (ODFA) platform. Compared to other countries in Western Africa, Cote d\u2019Ivoire\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated as moderate."
+        },
+        "GHA": {
+            "Country": "Ghana",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "GHA",
+            "Link": "https://www.statsghana.gov.gh/",
+            "Comments": "Tourism data for Ghana is available on the Open Data for Africa (ODFA) platform, and several publications can be found on the official website. In terms of \u2018Ease of Access Score\u2019, Ghana\u2019s tourism data is moderate compared to other countries in Western Africa."
+        },
+        "GIN": {
+            "Country": "Guinea",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "GIN",
+            "Link": "https://www.stat-guinee.org",
+            "Comments": "Guinea\u2019s tourism data is available on the Open Data for Africa (ODFA) platform, sourced from the World Bank. The national statistical agency\u2019s website provides socio-demographic and economic indicators. Guinea\u2019s \u2018Ease of Access Score\u2019 to tourism data is like other countries in Western Africa."
+        },
+        "MRT": {
+            "Country": "Mauritania",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "MRT",
+            "Link": "https://ons.mr",
+            "Comments": "The website of the National Statistics Office of Mauritania hosts data although it is only available in PDF format. However, raw data can be accessed through ODFA. The \u2018Ease of Access Score\u2019 is comparable to other countries in the Western Africa region. "
+        },
+        "NER": {
+            "Country": "Niger",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "NER",
+            "Link": "https://www.stat-niger.org/",
+            "Comments": "Niger provides tourism data in PDF format on its website, but it is not available on the Open Data for Africa (ODFA) platform. Niger\u2019s \u2018Ease of Access Score\u2019 to tourism data is moderate compared to other countries in Western Africa. "
+        },
+        "NGA": {
+            "Country": "Nigeria",
+            "Ease of Access": 2,
+            "Region": "Western Africa",
+            "ISO3 Code": "NGA",
+            "Link": "https://nigerianstat.gov.ng/elibrary",
+            "Comments": "Tourism data for Nigeria is available in PDF format on the official website, but it is not accessible on the Open Data for Africa (ODFA) platform. Nigeria\u2019s \u2018Ease of Access Score\u2019 to tourism data is moderate compared to other countries in Western Africa. "
+        },
+        "GNB": {
+            "Country": "Guinea-Bissau",
+            "Ease of Access": 1,
+            "Region": "Western Africa",
+            "ISO3 Code": "GNB",
+            "Link": "https://www.stat-guinebissau.com/Menu_principal/Estatisticas/transporte.html",
+            "Comments": "Guinea-Bissau\u2019s tourism data is available on the ODFA, although it is sourced from the World Bank. However, the agency\u2019s website does not currently allow access to the statistics. Socio-demographic and economic indicators can be found on the website. Guinea-Bissau\u2019s \u2018Ease of Access Score\u2019 to tourism data is rated low."
+        },
+        "LBR": {
+            "Country": "Liberia",
+            "Ease of Access": 1,
+            "Region": "Western Africa",
+            "ISO3 Code": "LBR",
+            "Link": "http://www.lisgis.net/",
+            "Comments": "The national website for Liberia was not operational, but tourism data can be obtained through the Open Data for Africa (ODFA) platform. Liberia\u2019s \u2018Ease of Access Score\u2019 to tourism data is relatively low compared to other countries in Western Africa. "
+        },
+        "TGO": {
+            "Country": "Togo",
+            "Ease of Access": 1,
+            "Region": "Western Africa",
+            "ISO3 Code": "TGO",
+            "Link": "https://inseed.tg/",
+            "Comments": "Although no tourism-related data could be found on Togo\u2019s website or the Open Data for Africa (ODFA) platform, there are several indicators available, and publications can be downloaded as Excel files. Togo\u2019s \u2018Ease of Access Score\u2019 to tourism data is considered low compared to other countries in Western Africa."
+        }
+    },
+    "legend_data": {
+        "0": {
+            "Score": 0,
+            "Legend_Description": "Non-operational national statistics agency website, absence of any tourism related data; unusable data. "
+        },
+        "1": {
+            "Score": 1,
+            "Legend_Description": "Insufficient source for tourism data. It could even be possible that the statistics agency has no tourism data, but the website hosts other socio-economic indicators, and the website is operational."
+        },
+        "2": {
+            "Score": 2,
+            "Legend_Description": "Average source for data. There is limited tourism data, as well as data from other sectors available on either the statistical agency or on the Open Data For Africa (ODFA) platform. Further, the data is either out of date, or only available as a report in a non-machine readable format."
+        },
+        "3": {
+            "Score": 3,
+            "Legend_Description": "Suitable source, bar the presence of one issue. Either data is not recent, only available as a report, the number of tourism related indicators are limited. "
+        },
+        "4": {
+            "Score": 4,
+            "Legend_Description": "The national statistics agency serves as a more than adequate source for tourism-related data. The data has been recently published (in the past three years), can be obtained in a machine-readable format, and has numerous indicators."
+        }
+    },
+    "info_data": {
+        "Introduction": {
+            "InfoText_ID": 1,
+            "Section": "The \u2018Ease of Access\u2019 score was created within the scope of the Nova SBE WiTH Africa project.\nThis score was determined based on several factors such as availability of datasets or reports, the recency and frequency of publication of the data, and the number of indicators tracked.\nThe \u2018Ease of Access\u2019 to each country\u2019s tourism data was evaluated on a scale from 0 to 4, with higher scores indicating a better \u2018Ease of Access\u2019. ",
+            "Title": "Introduction"
+        },
+        "Methodology": {
+            "InfoText_ID": 2,
+            "Section": "The data presented was collected over a span of three weeks, specifically from late April 2023 to early May 2023. It's essential to recognize that the findings and insights derived from this data are reflective of the situation during that specific period. \nGiven the dynamic nature of the tourism industry and the myriad factors influencing the data ecosystem, the current situation might differ from the observations documented above. As such, readers are advised to interpret the results with this context in mind. While they provide valuable insights into the state of the African tourism data ecosystem during that time, they may not account for recent developments, changes, or trends that have emerged after early May 2023. \nTo ensure the most accurate and up-to-date understanding, readers are encouraged to consult more recent sources or datasets in conjunction with this report, especially when making data-driven decisions or strategies based on the findings presented herein. \n\nTo obtain the \u201cEase of Access\u201d scores, we embarked on an exhaustive exploration of the African continent's data availability. Utilizing a comprehensive list of countries as sourced from the United Nations Statistics Division (UNSD), we identified and documented the primary statistical agencies for each nation. Where required, ministries of tourism and central banks were accessed to discern the presence of tourism-specific indicators and datasets. \nThis rigorous process allowed us to amass a robust compilation of resources, detailing every accessible data source. To provide clarity and a comparative framework, we established a scoring system, rating each country's Ease of Access Score to their respective tourism data. In instances where a country's official website directed users to the Open Data for Africa platform, we ensured that indicators hosted on this platform were scrutinized. Conclusively, each nation was attributed an \"Ease of Access Score\", which was then aggregated by region, in alignment with the UNSD's regional designations, to derive overarching statistics and insights. ",
+            "Title": "Methodology"
+        }
+    }
+}

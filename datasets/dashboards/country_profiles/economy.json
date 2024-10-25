@@ -1,0 +1,1838 @@
+{
+    "AGO": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2553112524557612
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.019808019695588576
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.22297269600163422
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9540848293572377
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.21101749614621135
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09141321433089246
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.49133259160894377
+        }
+    },
+    "BDI": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.015473884733175557
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08795034687164616
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17518170905868033
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2018.0,
+            "latest_value": 0.8064102524031131
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3673371113718261
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.45785695459159226
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.011735993970498508
+        }
+    },
+    "BEN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04161682707644683
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02688187216732294
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05524627252114743
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8630688108030719
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08034727050650614
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.381433772692562
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1853438884915024
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.03151132326023759
+        }
+    },
+    "BFA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.022731386379974117
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14417982570882654
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8903499506668313
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04395298159833233
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4038319654607603
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3394936240791357
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.16035602770699495
+        }
+    },
+    "BWA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.013241990742531209
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0004011801247794329
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1261403476553936
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9058643029083846
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5757528856356271
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.37864777656740106
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.323437110109521
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.8281233176614147
+        }
+    },
+    "CAF": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02037255276956776
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08433569821829262
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 1994.0,
+            "latest_value": 0.8705959602754134
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.01293414616067659
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3679573853580625
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.12781964440769028
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.20539783942863293
+        }
+    },
+    "CIV": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.15026678466809743
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08222567065112896
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8639759591525771
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17145048890670833
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.45546820121524934
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.22896619800702323
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.06804723109500052
+        }
+    },
+    "CMR": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08442631044251897
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08890290818272775
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8672980389935773
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10040956449484448
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.41805218153370716
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2018.0,
+            "latest_value": 0.15912675643495353
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.113519721494455
+        }
+    },
+    "COD": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.162083815330922
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.08600553677356472
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2016.0,
+            "latest_value": 0.0657969044678157
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.881620033746484
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.030376268613070266
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.46917250094059615
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.07822971340402858
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.1423393030183397
+        }
+    },
+    "COG": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02246788400026248
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06688004428673407
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.9633597265179072
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.18398281354799845
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.39619346293738256
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.15067543880738185
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.6935721207335893
+        }
+    },
+    "COM": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0007779418974387961
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.020094522526058724
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2013.0,
+            "latest_value": 0.01644341579729681
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.884796230916133
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09435969386721256
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3668345916382489
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.18195084534052866
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.18526361124071347
+        }
+    },
+    "CPV": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0022339166819772115
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.00443505946791816
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1004719867303365
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8695095514582336
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2690450201873322
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3733909259052202
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.6295893046629095
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.41391809927143525
+        }
+    },
+    "DJI": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.002883202736844461
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.007560869416031523
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08156339190892979
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0000000000000002
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.22146042114700726
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.37701228709233325
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.21790981605951268
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.9240928830348489
+        }
+    },
+    "DZA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1867172733436273
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.006013945628488715
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10964466686137017
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9465631776288292
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3143312695020977
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3708238589620661
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.22871959936485517
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.42052183899795426
+        }
+    },
+    "EGY": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0006952552753477766
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14146789516618546
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8747294743723195
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3106957598284237
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3343983018283975
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.2058285181064494
+        }
+    },
+    "ERI": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005183572320231533
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2000.0,
+            "latest_value": 0.7990925409409839
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2011.0,
+            "latest_value": 0.0296168310339014
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.36484083520626603
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2014.0,
+            "latest_value": 0.5772107060717395
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.19086243405232745
+        }
+    },
+    "ETH": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.055795204398938134
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.002106640397899163
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2788891906146224
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8635684620982367
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.059159063487084246
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5705260963344255
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2008.0,
+            "latest_value": 0.1919592410529156
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.10041991171087103
+        }
+    },
+    "GAB": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06630440758604329
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0750438867438579
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2015.0,
+            "latest_value": 0.8938718833368771
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.6589976451419572
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4279924525041029
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2019.0,
+            "latest_value": 0.14497052138368438
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.7116247353120625
+        }
+    },
+    "GHA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14200412470573928
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.00022380714543673041
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2607856787206301
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8756514837353144
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14967819430166385
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.45056537972965427
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1328844633504783
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.10853102680974769
+        }
+    },
+    "GIN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.038861115609154284
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.4140301678313117
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11808151274747494
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9837154383267857
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09669011331924496
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.40319645653561154
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.09993311697629667
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.1747837634138463
+        }
+    },
+    "GMB": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.009549095873433385
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0022437812626631844
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1250925671664272
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8632319461534654
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04227811843845494
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3794827719827402
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0966627058764592
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.12934716290420986
+        }
+    },
+    "GNB": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.002508697137429224
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11052663923201614
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8828166891835645
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03978037078928229
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3678403294458053
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17993223152441826
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.09281125506944693
+        }
+    },
+    "GNQ": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07886165424090857
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 1996.0,
+            "latest_value": 0.0
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5329082266818597
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3920961141435383
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.11432428378939292
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.2864731005275814
+        }
+    },
+    "KEN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.15422673696467332
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.004969169387619512
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09858839470433499
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8574897864493815
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14165313543739838
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3884887790361139
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3419345009211078
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.18188996159781787
+        }
+    },
+    "LBR": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03302164783132795
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.006487590872678946
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2018.0,
+            "latest_value": 0.20791555323015073
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8977085780505988
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03814112695575865
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.41996960905005604
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.16026906700253715
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.08315687470839464
+        }
+    },
+    "LBY": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 7.40239708752512e-05
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07696183589221262
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.9735513854163012
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.49702538940732743
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.4001239872616132
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10978586885044109
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.6456591178265082
+        }
+    },
+    "LSO": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.006496170387538536
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005738177184201187
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10281483572812697
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8402586632780621
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05472151140529831
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3661868101470145
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2476080957107741
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.5663424613286436
+        }
+    },
+    "MAR": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17702076569135772
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.00030556812184044733
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0917164941906581
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8661041767585901
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2450050708237217
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.48762244559961165
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9544148468832085
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.3316584718084915
+        }
+    },
+    "MDG": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05879903349567381
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17722594463021657
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10205045906642982
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8554593609596554
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.01982595978431756
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.39261497593292866
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.20233922444256836
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.04619028819581524
+        }
+    },
+    "MLI": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03865069372782771
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1120912021937267
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8423586640126866
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.044203924301141534
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4063728227666849
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3212259486837088
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.09762050030506406
+        }
+    },
+    "MOZ": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04542697713786229
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0026303329371444675
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11661315959412619
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.6827777741760984
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02303622900731892
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5345334373990708
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2304216568705855
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.11273014391845815
+        }
+    },
+    "MRT": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.023761184830209715
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.0014271443723280408
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11142994729080424
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8006293908892556
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.13902475500058198
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4444953585190593
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2019.0,
+            "latest_value": 0.2463179920333441
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.3622007680436421
+        }
+    },
+    "MUS": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.012424269113780589
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0017787132204081992
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.12001084859187733
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8191266751369378
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7695230361040765
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.38062821297449695
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.783860699155758
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.15622869037792053
+        }
+    },
+    "MWI": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.030537958593566134
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.03231988101213907
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1899800148649036
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8145266223226026
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02972218122794997
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3801359392260314
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08845178648776589
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.16125327495244587
+        }
+    },
+    "NAM": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005738179283728232
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08775925995484986
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8120788264404468
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.36732597598587075
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.42529509470605953
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.6438907013193238
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.6852815561856224
+        }
+    },
+    "NER": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03208642583820442
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07500931485770881
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8035473382116725
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.025122706096424065
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.42029095101563574
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.13615792268916804
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.0
+        }
+    },
+    "NGA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3954684087369098
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.018310356664198193
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.17549999401138539
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8892832369876305
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1465280254310144
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3562431017150164
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.15275821999658967
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.1092129347162904
+        }
+    },
+    "RWA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026372058864394466
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04447758698894603
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1675411500085584
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8293414789427066
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.054436424346459594
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.38876748270541417
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2477395990878506
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.5172450920575673
+        }
+    },
+    "SDN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10783474900755466
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02354007305451789
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8363917236086336
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06489827532236608
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3984852163118519
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06108402919270208
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.7278469655098158
+        }
+    },
+    "SEN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07225187517638539
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.11260903786777135
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8155764474781274
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10312192878734773
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5103095100830431
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3501221251466832
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.08728421203746903
+        }
+    },
+    "SLE": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0392109197728198
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0004738733446759118
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.23296626917829644
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.8373843766609348
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.01668566763638061
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3829543051672011
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.09589778559379822
+        }
+    },
+    "SOM": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.02790483487642397
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2017.0,
+            "latest_value": 0.9999999999999999
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.025638291554501237
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4019574680218653
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 1989.0,
+            "latest_value": 0.17394800807385163
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.6697412338944119
+        }
+    },
+    "SSD": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.023009753809108125
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8175981407071373
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2015.0,
+            "latest_value": 0.06256067909584657
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.37337183616884273
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.03414366725596002
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.4129131823565302
+        }
+    },
+    "STP": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0009902638955846946
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0008740812120084032
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.16971595913975432
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8001628195214964
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1637749665069973
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.37366320381700696
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.1917198396056295
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.49201449951548654
+        }
+    },
+    "SWZ": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.010519561848064246
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005740961165062754
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2019.0,
+            "latest_value": 0.06381860057854123
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8703350880128111
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.2869477321571639
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.36736303347302546
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.22921003694720898
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.7772673437892546
+        }
+    },
+    "SYC": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.00048362202901761043
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.10284957360781499
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8341536022349652
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 1.0
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.37716791324721455
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2016.0,
+            "latest_value": 0.2857217953402048
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": NaN,
+            "latest_value": NaN
+        }
+    },
+    "TCD": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.04401072078816765
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.08574370829897512
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 1994.0,
+            "latest_value": 0.8687951508675374
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.035237023292695006
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.4007361757088169
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.12918409493870286
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.016473459426479556
+        }
+    },
+    "TGO": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026096910643951067
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.026874181675209517
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10072384531743647
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8863279850708442
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.05262121475622297
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3540125489675208
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.29861962060961655
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.11452463840936009
+        }
+    },
+    "TUN": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14131800103488565
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10305303744616956
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8359248953333844
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.26851502450570125
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.40235823031192935
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2017.0,
+            "latest_value": 0.8859190832655779
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.6166600868535332
+        }
+    },
+    "TZA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06463727539019552
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.09935796403505051
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07586194523996226
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.8778008085995622
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.07187364212369779
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.436886275554884
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.16436527806086615
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.0726052471018914
+        }
+    },
+    "UGA": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0665009545657703
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.1596333555975731
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09541932892430943
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8376759167915937
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.054295084880965294
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5306868015755127
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2021.0,
+            "latest_value": 0.16026403613385942
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.08319276459821268
+        }
+    },
+    "ZAF": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.47384182612229936
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005738177184201187
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09434670505900163
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8854768483210725
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.5009037358681524
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.8774850607695286
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.9999999999999999
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 1.0
+        }
+    },
+    "ZMB": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09293255227530443
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.0005990068835964004
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.12151915828194554
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.909945906191781
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09220512790770852
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.3630032878511205
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.14061837642201422
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.13232602375910704
+        }
+    },
+    "ZWE": {
+        "Use of IMF credit (DOD, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.06041241095501615
+        },
+        "Official exchange rate (LCU per US$, period average)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.016101001723228012
+        },
+        "Inflation, consumer prices (annual %)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.7656063334923013
+        },
+        "Current account balance (% of GDP)": {
+            "latest_year": 2020.0,
+            "latest_value": 0.9185698218626256
+        },
+        "GDP per capita (current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.10913320320339397
+        },
+        "Foreign direct investment, net inflows (BoP, current US$)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.38559504123719057
+        },
+        "Domestic credit to private sector (% of GDP)": {
+            "latest_year": 2022.0,
+            "latest_value": 0.09519389278298766
+        },
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)": {
+            "latest_year": 2023.0,
+            "latest_value": 0.3080429243082224
+        }
+    }
+}
