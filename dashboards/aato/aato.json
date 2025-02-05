@@ -1,0 +1,302 @@
+{
+    "title": "AATO (2024)",
+    "intro_popup": {
+      "header": "Welcome to the 2024 edition of the WiTH Africa Annual African Tourism Outlook (AATO 2024)!",
+      "text": "As the African tourism sector continues to rebound from the seismic disruptions caused by the COVID-19 pandemic, 2023 and 2024 marked a period of recovery, resilience, and renewed growth. Across the continent, tourism activity has regained momentum, supported by increasing international arrivals, improving infrastructure, and strategic policymaking aimed at fostering a more sustainable industry. Building on the insights of last year’s inaugural report, the Annual African Tourism Outlook 2024 (AATO 2024) broadens its scope to provide a deeper and more comprehensive view of tourism trends, opportunities, and challenges across Africa. This edition features a wider compilation of information on Africa’s tourism sector, covering key strategic areas, as well as new visualizations, detailed plots and insights to provide a more dynamic and actionable understanding of Africa’s tourism landscape. It seeks not only to inform but also to empower stakeholders to make data-driven decisions, adopt sustainable practices, and foster meaningful collaboration across the sector."
+    },
+    "sections": [
+      {
+        "header": "UNWTO Tourism Highlights",
+        "popup_info": {},
+        "elements": [
+          {
+            "type": "selectbox", 
+            "label": "Select a Metric",
+            "options": [
+              {
+                "value": "International Arrivals",
+                "visualizations": [
+                  {
+                    "type": "treemap",
+                    "html_file_name": "fig_treemap_arr.html",
+                    "header": "Total International Arrivals, Thousands - (2022)",
+                    "caption": "(–) countries missing from visualization did not report any values to UNWTO for the 'Compendium of Tourism Statistics, Data 2017 – 2021, 2023 Edition'"
+                  },
+                  {
+                    "type": "line",
+                    "html_file_name": "fig_comp_arr.html",
+                    "header": "Total International Arrivals, Thousands (2021 vs 2022)",
+                    "caption": "(–) countries missing from visualization did not report any values to UNWTO for the 'Compendium of Tourism Statistics, Data 2017 – 2021, 2023 Edition'"
+                  }
+                ]
+              },
+              {
+                "value": "Expenditure on Inbound Tourism",
+                "visualizations": [
+                  {
+                    "type": "treemap",
+                    "html_file_name": "fig_treemap_exp.html",
+                    "header": "Total Expenditure on Inbound Tourism, US$ Millions - (2022)",
+                    "caption": "(–) countries missing from visualization did not report any values to UNWTO for the 'Compendium of Tourism Statistics, Data 2017 – 2021, 2023 Edition'"
+                  },
+                  {
+                    "type": "line",
+                    "html_file_name": "fig_comp_exp.html",
+                    "header": "Total Expenditure on Inbound Tourism, US$ Millions (2021 vs 2022)",
+                    "caption": "(–) countries missing from visualization did not report any values to UNWTO for the 'Compendium of Tourism Statistics, Data 2017 – 2021, 2023 Edition'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "header": "Breaking Down Key Tourism Categories",
+            "popup_info": {},
+            "type": "selectbox",
+            "label": "Select a Category",
+            "options": [
+              {
+                "value": "Tourism Industries",
+                "visualizations": [
+                  {
+                    "type": "treemap",
+                    "html_file_name": "fig_treemap_ind.html",
+                    "header": "Breakdown of Tourism Industries",
+                    "caption": "The treemap provides a detailed breakdown of the infrastructure of each country's tourism industry, including accommodation and more."
+                  }
+                ]
+              },
+              {
+                "value": "Purpose of Arrival",
+                "visualizations": [
+                  {
+                    "type": "sunburst",
+                    "html_file_name": "fig_sb_purpose.html",
+                    "header": "Breakdown of Inbound Travelers by Purpose of Arrival",
+                    "caption": "The sunburst chart provides a detailed breakdown of inbound travelers by purpose of arrival, including leisure and business."
+                  }
+                ]
+              },
+              {
+                "value": "Method of Arrival",
+                "visualizations": [
+                  {
+                    "type": "sunburst",
+                    "html_file_name": "fig_sb_method.html",
+                    "header": "Breakdown of Inbound Travelers by Method of Arrival",
+                    "caption": "The sunburst chart provides a detailed breakdown of inbound travelers by method of arrival, including air, land, and water."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Air Transport Statistics (IATA)",
+        "popup_info": {
+          "header": "What Are RPK and ASK?",
+          "text": "Revenue Passenger Kilometers (RPK) is a measure of the volume of passengers carried by an airline, calculated by multiplying the number of revenue-paying passengers by the distance traveled. Available Seat Kilometers (ASK) is a measure of an airline's passenger carrying capacity, calculated by multiplying the number of available seats by the distance flown."
+        },
+        "elements": [
+          {
+            "type": "visualization", 
+            "visualizations": [
+              {
+                "type": "bar",
+                "html_file_name": "fig_iata.html",
+                "caption": "The bar chart illustrates the percentage change in Revenue Passenger Kilometers (RPK) and Available Seat Kilometers (ASK) by region from 2021 to 2024. RPK represents the volume of passengers carried by an airline, while ASK measures an airline's passenger carrying capacity."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Classifying Africa's Tourism Markets",
+        "popup_info": {
+          "text": "Our analysis of Africa's tourism industries has led to the creation of a categorization system that groups countries into four distinct categories: Established Tourism Industry, Emerging Tourism Industry, Advancing Tourism Economy, and Nascent Tourism Market. This classification is based on a range of indicators reflecting tourism activity, infrastructure, and accessibility. Through this lens, countries such as Egypt, Morocco, and South Africa are identified as having Established Tourism Industries, showcasing their advanced infrastructure and strong international appeal. Emerging Tourism Industry nations, like Kenya and Mauritius, are experiencing rapid growth, signaling their rising importance in global tourism. The Advancing Tourism Economy category highlights countries like Ghana and Ethiopia, which are steadily developing their tourism potential. Lastly, the Nascent Tourism Market includes countries where tourism remains underdeveloped, offering significant opportunities for investment and growth."
+        },
+        "elements": [
+          {
+            "type": "visualization", 
+            "visualizations": [
+              {
+                "type": "treemap",
+                "html_file_name": "fig_treemap_cluster.html",
+                "caption": "The categorization of African countries into tourism market clusters is based on our own analysis and methodology, utilizing selected indicators relevant to the tourism industry. These classifications are intended to provide a generalized perspective and should not be interpreted as definitive rankings or assessments."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Google Destination Insights for Selected African Countries (2024)",
+        "popup_info": {
+          "header": "What Are Google Destination Insights?",
+          "text": "This section introduces new visualizations powered by data from Google Destination Insights, which leverages aggregated and anonymized data from Google searches related to travel trends. These insights are derived from Google Trends and other data points, offering a unique view into travel demand and preferences. Our analysis focuses on two key groups of countries. The first group comprises Africa’s top three countries by Total International Arrivals in 2022, as identified by UNWTO data (South Africa, Egypt, and Morocco). These destinations provide a benchmark for understanding high-performing tourism markets. The second group examines Lusophone countries, highlighting demand trends and source markets specific to Portuguese-speaking nations."
+        },
+        "elements": [
+          {
+            "type": "selectbox", 
+            "label": "Select a Country",
+            "options": [
+              {
+                "value": "South Africa",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_sa_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_sa_SourcesDemand.html",
+                    "header": "Sources of Demand for South Africa",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Egypt",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_egy_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_egy_SourcesDemand.html",
+                    "header": "Sources of Demand for Egypt",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Morocco",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_mor_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_mor_SourcesDemand.html",
+                    "header": "Sources of Demand for Morocco",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Angola",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_ang_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_ang_SourcesDemand.html",
+                    "header": "Sources of Demand for Angola",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Equatorial Guinea",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_eqg_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_eqg_SourcesDemand.html",
+                    "header": "Sources of Demand for Equatorial Guinea",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Mozambique",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_moz_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_moz_SourcesDemand.html",
+                    "header": "Sources of Demand for Mozambique",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "São Tomé and Príncipe",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_stp_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_stp_SourcesDemand.html",
+                    "header": "Sources of Demand for São Tomé and Príncipe",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Cape Verde",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_cpv_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_cpv_SourcesDemand.html",
+                    "header": "Sources of Demand for Cape Verde",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              },
+              {
+                "value": "Guinea-Bissau",
+                "visualizations": [
+                  {
+                    "type": "line",
+                    "html_file_name": "df_gb_TravelTrends.html",
+                    "header": "Travel Demand (2024 vs 2023)",
+                    "caption": "The y-axis represents the relative search volume index for travel demand to the selected country, where 0 indicates no interest and 100 represents peak popularity, reflecting search activity as a percentage of its highest observed level. We smooth the time series using a 7-day rolling mean to increase the interpretability."
+                  },
+                  {
+                    "type": "scatter_geo",
+                    "html_file_name": "df_gb_SourcesDemand.html",
+                    "header": "Sources of Demand for Guinea-Bissau",
+                    "caption": "The world plot illustrates the source of travel demand for the selected destination (blue), with countries ranked on a scale from 0 to 100; higher values (light orange) indicate stronger relative demand based on search activity."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
